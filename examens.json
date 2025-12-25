@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "etudiant_id": 1,
+    "note": 15.50
+  },
+  {
+    "id": 2,
+    "etudiant_id": 2,
+    "note": 12.00
+  }
+]
